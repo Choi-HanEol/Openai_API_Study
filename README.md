@@ -1,1 +1,1 @@
-# llama_index_study
+# Openai_API_Study
